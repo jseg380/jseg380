@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jseg380
-- 👀 I’m interested mainly in web development but I'm open to new ideas
-- 🌱 I’m currently in college in a Computer Science degree
+- 👀 I’m interested mainly in web development but I'm open to new things
+- 💻 I’m currently in college doing a Computer Science degree
 
-<!---
-jseg380/jseg380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jseg380&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jseg380&size_weight=0.5&count_weight=0.5)
