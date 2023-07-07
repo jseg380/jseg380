@@ -3,7 +3,6 @@
 <div size='20px'> Hi! My name is Juan. Welcome to my GitHub profile
 </div>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=jseg380.jseg380)
 [![Github](https://img.shields.io/github/followers/jseg380?label=Follow&style=social)](https://github.com/jseg380)
 
 <h2> About Me </h2>
