@@ -34,7 +34,7 @@
 
 <br>
 
-| <p align="center">![jseg380's github stats](https://github-readme-stats.vercel.app/api?username=jseg380&show_icons=true&theme=tokyonight)</p> | <p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jseg380&theme=tokyonight)</p> |
+| <p align="center">![jseg380's github stats](https://github-readme-stats.vercel.app/api?username=jseg380&show_icons=true&theme=tokyonight)</p> | <p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jseg380&exclude_repo=University,Inteligencia-artificial,Estructuras-datos&layout=donut&theme=tokyonight)</p> |
 | --- | --- |
 
 <br>
